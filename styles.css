@@ -1,14 +1,12 @@
-body{
-    color: red;
-}
-h1{
-    color: blue;
+
+
+
+.container {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
-#lib-header {
-    color: gold;
-}
-
-.para{
-    color:green;
+.container-center {
+    max-width: 600px;
+    margin: auto;
 }
